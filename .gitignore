@@ -1,0 +1,16 @@
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Conda environments
+miniconda3/
+edna_env/
+
+# Temporary/plot/PDF files
+*.pdf
+*.png
+
+# OS files
+.DS_Store
+Thumbs.db
